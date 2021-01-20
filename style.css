@@ -1,0 +1,63 @@
+body {
+    background-color: #f4f5f6;
+}
+
+main {
+    background-color: white;
+}
+
+#logo-header {
+    background-color: #ff0600;
+    height: 100px;
+}
+
+#logo {
+    max-height: 100px;
+}
+
+#body {
+    max-width: 1300px;
+}
+
+a {
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    
+}
+
+#web-nav a {
+    border-right: 1px solid #dee2e6;
+}
+
+#editors-pick .card, #in-the-magazine .card {
+    width: 25%;
+} 
+
+h5 a {
+    font-size: 17px;
+}
+
+.orange {
+    color: #f72210;
+}
+
+#footer-info {
+    font-size: 14px;
+}
+
+footer li {
+    color: #666666;
+    border-right: 1px solid #dee2e6;
+    padding-right: 4px;
+}
+
+.bg-or {
+    background-color: #f72210;
+    color: white;
+    padding: 4px;
+}
+
+.font-or {
+    color: #f72210;
+}
